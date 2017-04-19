@@ -28,7 +28,7 @@ Time | Agenda |
    * [Mapbox Studio](https://www.mapbox.com/studio/) - An Application to build and design a map by using data from OpenStreetMap or by adding some of your own.
    * [GitHub](https://github.com/) - An online repository for digital projects with code and data. Our maps will be hosted through this website so you can leave with a web map to show your friends!
 
-2. Once you've got a GitHub account, fork the repository: [mapbox-studio-102](https://github.com/matikin9/mapbox-studio-102/). You can download the code to your computer by clicking the bright green **Clone or Download** button, or you can use one of the options below to edit code directly in the browser.
+2. Once you've got a GitHub account, fork the repository: [mapbox-studio-102](https://github.com/maptimeLA/mapbox-studio-102/). You can download the code to your computer by clicking the bright green **Clone or Download** button, or you can use one of the options below to edit code directly in the browser.
 
 3. Code Editor - A program for writing code. Guess what? You get to learn a little coding on how to make your map even better, like adding popups or a search by address! There are many many editing options - here are some popular ones:
    * Local editing
@@ -52,14 +52,14 @@ Time | Agenda |
 3. Let's create a custom style! Read about [Mapbox Styling Steps](https://www.mapbox.com/help/create-a-custom-style/).  *Note: don't forget to Publish your style.*
 
 4. What if I have data I want to add? Read about how to [Upload Data to Mapbox](https://www.mapbox.com/help/uploads/).
-   1. In this repo we have a geojson file (what's [geojson](http://geojson.org/)?) of the buildings in Downtown LA. We can upload this geo data to Mapbox. [See the data here](https://github.com/matikin9/mapbox-studio-102/blob/master/data/downtownLA.geojson).
+   1. In this repo we have a geojson file (what's [geojson](http://geojson.org/)?) of the buildings in Downtown LA. We can upload this geo data to Mapbox. [See the data here](https://github.com/maptimeLA/mapbox-studio-102/blob/master/data/downtownLA.geojson).
 
 5. What if I want to create my own dataset and make my own points, lines or polygons?...oh my.  Read about how to [Create a Dataset](https://www.mapbox.com/help/add-points-pt-1/#create-a-dataset).
 
 ### Data & Webmaps
 *Get the Code!*
 
-1. If you haven't already, fork the [mapbox-studio-102](https://github.com/matikin9/mapbox-studio-102/) repository.
+1. If you haven't already, fork the [mapbox-studio-102](https://github.com/maptimeLA/mapbox-studio-102/) repository.
 
 2. Turn on GitHub Pages.  GitHub lets you turn your repository into a LIVE site so you can show it to all your friends!
    1. Go to Settings and under the GitHub Pages section, select **`master branch`** for the Source.  Remember to Save - GitHub will then give your site a URL.
@@ -85,4 +85,8 @@ Time | Agenda |
 
 ## History
 
-Developed for a MaptimeLA workshop held on 4/19/17 in DTLA.
+Developed by [Omar Ureta](https://github.com/cityhubla) and [Nina Kin](https://github.com/matikin9) for a MaptimeLA workshop held on 4/19/17 in DTLA.
+
+## How to Use
+
+Anyone is free to fork this repo and hold their own local workshops on Mapbox Studio - if you do, you will want to update some of the links to point to your own repository!  We'd love to get feedback about your experience using the workshop, and we're always open to suggestions for changes (or bug fixes, haha).  You can contact us by opening an Issue in this repository, or by reaching out to us on Twitter.
