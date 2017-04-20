@@ -34,7 +34,7 @@ var map = new mapboxgl.Map({
     var feature = features[0];
     var popup = new mapboxgl.Popup()
         .setLngLat(map.unproject(e.point))
-        .setHTML("<p>Height is: "+feature.properties.height_1)
+        .setHTML("<p>Height is: "+(feature.properties.height_1*3.28084+" Feet"))
         .addTo(map);
 });
 
